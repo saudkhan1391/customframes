@@ -1,0 +1,27 @@
+.main6{
+
+}
+.imgStyle6{
+    width: 400px;
+    
+}
+.body{
+    display: flex;
+    margin-left: 5%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.rightdetails{
+    margin-left: 60px;
+}
+.body6{
+    display: flex;
+    margin-left: 5%;
+    margin-top: 60px;
+    flex-wrap: wrap;
+}
+.imgStyle6{
+    width: 330px;
+}

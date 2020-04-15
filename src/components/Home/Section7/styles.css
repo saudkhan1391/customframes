@@ -1,0 +1,28 @@
+.main7{
+    
+}
+.halfside7{
+    /* width: 600px; */
+    display: flex;
+    flex-wrap: wrap;
+    /* border: solid; */
+}
+.imgContainer7{
+    width: 400px;
+}
+.rightdetails7{
+    width: 300px;
+    margin-left: 20px;
+}
+.imgStyle7{
+    width: 250px;
+    flex-wrap: wrap;
+    /* display: flex; */
+}
+.body7{
+display: flex;
+flex-wrap: wrap;
+margin-top: 50px;
+margin-bottom: 150px;
+margin-left: 5%;
+}

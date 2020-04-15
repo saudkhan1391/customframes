@@ -1,0 +1,36 @@
+.main5{
+margin-bottom: 30px;
+display: flex;
+flex-wrap: wrap;
+}
+.halfside5{
+    /* width: 50%; */
+    width: 730px;
+    /* border: solid; */
+    padding-left: 5%;
+    padding-right: 5%;
+    /* margin-left: 70px; */
+}
+.fouritemsContainer{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.card4{
+    display: flex;
+    align-items: center;
+    /* border: solid; */
+    width: 280px;
+    /* width: 300px; */
+}
+.cardsRowContainer{
+    display: flex;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+.imageandsquare{
+    margin-top: 50px;
+}
+.rightdetails6{
+margin-left: 5%;
+width: 600px;
+}

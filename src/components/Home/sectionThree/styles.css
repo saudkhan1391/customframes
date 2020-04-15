@@ -1,0 +1,28 @@
+.imgStyle3{
+    /* width: 180px; */
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+.imagesContainer{
+    flex-wrap: wrap;
+    /* margin-right: 50px; */
+    margin:50px;
+    display: flex;
+}
+.imgContainer3{
+    background-color: #ebebeb;
+    width: 600px;
+    margin-left: 80px;
+    
+}
+.imageAndLabelContainer{
+     margin-left: 50px;
+     
+}
+.MainContainer3{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    flex-wrap: wrap;
+}
